@@ -20,14 +20,14 @@
                 padding:10px 5px 30px 5px;
             }
             .li{
-                font-family: Edwardian Script ITC;
-                font-size:xxx-large;
+                font-family:cursive;
+                font-size:xx-large;
                 text-align: center;
             }
             button{
-                background-color: azure;
-                color: darkblue;
-                background:beige;
+                /* background-color: rgb(25, 191, 241); */
+                color: rgb(5, 5, 27);
+                background:rgb(60, 180, 236);
                 border-radius:5px;
                 padding: 8px 15px;
                 
@@ -36,6 +36,7 @@
                 background-color: darkgrey;
             }
             form{
+                width: 100%;
                 box-shadow: 0 2px 20px black;
                 padding: 30px;
                 border-radius: 10px;
@@ -66,6 +67,42 @@
         </form>
     </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
