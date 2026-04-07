@@ -21,19 +21,6 @@ A simple and stylish login form built using HTML & CSS with a modern glassmorphi
 
 - HTML5
 - CSS3
-
----
-
-## 🚀 Live Demo
-
-👉 (Add your GitHub Pages link here after deployment)
-
----
-
-## 📸 Preview
-
-![Login Form Screenshot](https://via.placeholder.com/600x300)
-
 ---
 
 ## 📂 Project Structure
