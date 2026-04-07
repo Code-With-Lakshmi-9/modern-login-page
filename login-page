@@ -17,7 +17,7 @@
                 background-image: url(https://en.million-wallpapers.ru/wallpapers/3/62/424393070667535/blurred-glowing-outline-of-a-fish-on-a-dark-blue-background.jpg);
             }
             div{
-                padding:10px 5px 30px 5px;
+                padding:10px;
             }
             .li{
                 font-family:cursive;
