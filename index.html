@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"content="width=device-width,initial-scale=1.0">
+        <title>fill up form</title>  
+        <style>
+            body{
+                text-align: center;
+                margin: 0;
+                justify-content: center;
+                display: flex;
+                align-items: center;     
+                height: 100vh;
+                /* background-color: bisque; */
+                position: relative;
+                background-image: url(https://en.million-wallpapers.ru/wallpapers/3/62/424393070667535/blurred-glowing-outline-of-a-fish-on-a-dark-blue-background.jpg);
+            }
+            div{
+                padding:10px;
+            }
+            .li{
+                font-family:cursive;
+                font-size:xx-large;
+                text-align: center;
+            }
+            button{
+                /* background-color: rgb(25, 191, 241); */
+                color: rgb(5, 5, 27);
+                background:rgb(60, 180, 236);
+                border-radius:5px;
+                padding: 8px 15px;
+                
+            }
+            button:hover{
+                background-color: darkgrey;
+            }
+            form{
+                width: 100%;
+                box-shadow: 0 2px 20px black;
+                padding: 30px;
+                border-radius: 10px;
+                background:rgba(255,255,255,0.2);
+                backdrop-filter: blur(10px);               
+            }
+            .lg{
+                padding: 10px 130px 10px 40px;
+                border-radius: 5px;
+            }
+        </style> 
+    </head>
+    <body>
+        <form action=" ">
+            <div>
+            <h1 class="li">login</h1>
+            <label for="user"></label>
+            <input type="text" class="lg" name="uname" required placeholder=" 👤  Enter Username">
+            <br><br>
+
+            <label for="password"></label>
+            <input type="password" class="lg" name="password" required placeholder=" 🔑  Password">
+            <br><br>
+
+            <button type="submit">submit</button>
+            
+            </div>
+        </form>
+    </body>
+</html>
